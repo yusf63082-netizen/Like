@@ -1,4 +1,4 @@
-name: RDP
+name: RDP77
 on:
   workflow_dispatch:
 jobs:
